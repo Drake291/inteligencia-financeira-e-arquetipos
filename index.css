@@ -82,10 +82,10 @@ color: #FF4500;
 }
 .sobre{
 	text-align: center;
-	}
-    .textor{
+}	
+.textor{
         text-align:center;
-        margin: auto;
+        margin: 0;
     }
 .resort{
 	background-image:url(fundo.jpg);
