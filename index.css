@@ -85,16 +85,15 @@ color: #FF4500;
 	}
     .textor{
         text-align:center;
-        padding: 50px;
+        padding: 5px;
         margin: auto;
-        height: 19em;
     }
 .resort{
 	background-image:url(fundo.jpg);
 	background-size: cover;
 	background-position: center center;
 	width:100%;
-        height: 450px;
+        height: 460px;
         padding: auto;
         margin: auto;
 }
