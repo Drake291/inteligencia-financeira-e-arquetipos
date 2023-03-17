@@ -109,8 +109,6 @@ color: #FF4500;
 }
 /*Botão Pulsa*/
 .box-pulse { 
-    width:100%; 
-    width:250px; 
     margin:0 auto; padding:0 30px;
 }
 .box-pulse a {
