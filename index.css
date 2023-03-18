@@ -115,7 +115,7 @@ color: #FF4500;
 .box-pulse a {
   text-decoration:none;
   display: inline-block;
-  font-size: 1.9em;
+  font-size: 19px;
   font-family:Verdana, Geneva, sans-serif;
   -webkit-transition: all 0.4s;
   -moz-transition: all 0.4s;
@@ -123,8 +123,6 @@ color: #FF4500;
   transition: all 0.4s;
 }
 .botao-pulse {
-  width: 17em;
-  height: 6em;
   color: #fff;
   background-color: #d20000;
   border-radius:3px; 
