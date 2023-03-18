@@ -124,8 +124,8 @@ color: #FF4500;
 }
 .botao-pulse {
   color: #fff;
-  background-color: #d20000;
-  border-radius:3px; 
+  background-color: #03fd18;
+  border-radius: 20px; 
   -webkit-animation: pulse 1s ease infinite;
   -moz-animation: pulse 1s ease infinite;
   -ms-animation: pulse 1s ease infinite;
