@@ -107,17 +107,13 @@ color: #FF4500;
         padding: auto;
         margin: auto;
 }
-/*Botão Pulsa*/
 .box-pulse { 
-   width: 15em; 
 
-
+    width: 15em;
 }
 .box-pulse a {
-
   text-decoration:none;
   display: inline-block;
-
   font-family:Verdana, Geneva, sans-serif;
   -webkit-transition: all 0.4s;
   -moz-transition: all 0.4s;
