@@ -108,7 +108,8 @@ color: #FF4500;
         margin: auto;
 }
 .box-pulse { 
-  width: 20em;
+  width: 17em;
+  height: 6em;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -116,6 +117,7 @@ color: #FF4500;
 .box-pulse a {
   text-decoration:none;
   display: inline-block;
+  font-size: 1.9em;
   font-family:Verdana, Geneva, sans-serif;
   -webkit-transition: all 0.4s;
   -moz-transition: all 0.4s;
