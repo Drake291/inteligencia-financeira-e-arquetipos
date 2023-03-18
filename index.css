@@ -108,7 +108,10 @@ color: #FF4500;
         margin: auto;
 }
 .box-pulse { 
-  width: 15em;
+  width: 20em;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 .box-pulse a {
   text-decoration:none;
