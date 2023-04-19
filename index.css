@@ -1,9 +1,6 @@
 html,body{
         background-color: black;
         height:100%;width:100%;
-        padding: 0;
-        margin: 0;
-        border: 0;
         color: #ffffff;
         justify-content: center;
         align-items: center;
@@ -124,7 +121,7 @@ color: #FF4500;
 }
 .botao-pulse {
   color: #000000;
-  background-color: #03fd18;
+  background-color: #FF0000;
   border-radius: 20px; 
   -webkit-animation: pulse 1s ease infinite;
   -moz-animation: pulse 1s ease infinite;
