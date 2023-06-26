@@ -83,7 +83,8 @@ body{
     border-top: solid 3px #FF4500;
     color: white;
     text-align: center;
-    
+    height: 130px;
+    background-color: #000000;
 }
 
 .conteudo-curso .texto h2{
@@ -96,7 +97,7 @@ body{
     color: #ffffff;
 }
 .conteudo-curso .box{
-    background: #ffffff40;
+    background: #ffffff33;
     color: rgb(255, 255, 255);
     margin:55px auto;
     text-align: center;
@@ -200,7 +201,7 @@ body{
     border-bottom: #FF4500 3px solid;
 }
 .bonus .border-radius{
-    background: #ffffff6c;
+    background: #ffffff33;
     color: rgb(255, 255, 255);
     margin: 0 auto;
     position:relative;
