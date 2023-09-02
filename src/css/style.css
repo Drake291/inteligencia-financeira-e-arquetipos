@@ -153,8 +153,7 @@ body{
 
 
 .garantia{
-    background:url(../img/fundo-garantia.jpg)
-    center center no-repeat;
+    background:rgb(6, 14, 49);
     position: relative;
     background-size: cover;
     border-bottom: #FF4500 3px solid;
@@ -182,6 +181,7 @@ body{
     margin: 20px;
 }
 .garantia .central p{
+    color: #FFFFFF;
     font-weight: 600;
     font-size: 2.3rem;
     margin: 20px;
